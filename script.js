@@ -1,3 +1,5 @@
-for (let i = 1; i <= 100; i++){
-    console.log(i)
+let cont = 0
+while(cont <=100){
+    cont = cont + 1
+    console.log(cont)
 }
